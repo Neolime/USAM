@@ -1,0 +1,7 @@
+﻿  voisko.cpp
+D:\USAM\War_S\voisko.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\USAM\War_S\voisko.cpp(20,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\USAM\War_S\voisko.cpp(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\USAM\War_S\voisko.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\USAM\War_S\voisko.cpp(43,15): warning C4018: <: несоответствие типов со знаком и без знака
+  War_S.vcxproj -> D:\USAM\War_S\Debug\War_S.exe
